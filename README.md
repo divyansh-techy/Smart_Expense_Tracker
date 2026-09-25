@@ -65,13 +65,6 @@ Smart_Expense_Tracker/
 ├── database/
 │   └── smart_expense_tracker.sql
 │
-├── screenshots/
-│   ├── registration.png
-│   ├── login.png
-│   ├── add-expense.png
-│   ├── view-expenses.png
-│   └── monthly-report.png
-│
 ├── README.md
 └── .gitignore
 ```
@@ -107,28 +100,6 @@ Make sure the MySQL Connector/J driver is available in the project classpath.
 ### 6. Run the Application
 
 Run the main Java class from Eclipse.
-
-## 📸 Screenshots
-
-### User Registration
-
-![Registration](screenshots/registration.png)
-
-### User Login
-
-![Login](screenshots/login.png)
-
-### Add Expense
-
-![Add Expense](screenshots/add-expense.png)
-
-### View Expenses
-
-![View Expenses](screenshots/view-expenses.png)
-
-### Monthly Expense Report
-
-![Monthly Report](screenshots/monthly-report.png)
 
 ## 📚 Concepts Practiced
 
